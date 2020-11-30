@@ -1,0 +1,6 @@
+The two python programs above implement a 4 layer Artificial Neural Network.
+In the sine_ann_backprop program the NN tries to learn from the given data to transform itself into a sine function.
+The power_plant_problem program contains a 4 layer neural network which is trained on a Combined Cycle Power Plant Data Set. 
+For more detials about the dataset, please go to this link: https://archive.ics.uci.edu/ml/datasets/combined+cycle+power+plant#
+
+The ANN Document contains the result obtained after carrying out the training in visual forms, and the parameters of the ANN.
